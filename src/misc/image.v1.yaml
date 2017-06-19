@@ -47,6 +47,11 @@ properties:
         required:
           - x
           - y
+    attribution:
+        title: Attribution
+        type: array
+        items:
+            type: string
 required:
   - uri
   - alt

@@ -20,7 +20,10 @@
             "focalPoint": {
                 "x": 25,
                 "y": 75
-            }
+            },
+            "attribution": [
+                "By some person."
+            ]
         },
         "thumbnail": {
             "uri": "https://iiif.elifesciences.org/lax:09560/elife-09560-fig1-v1.tif",
@@ -37,7 +40,10 @@
             "focalPoint": {
                 "x": 25,
                 "y": 75
-            }
+            },
+            "attribution": [
+                "By some other person."
+            ]
         }
     },
     "sources": [
